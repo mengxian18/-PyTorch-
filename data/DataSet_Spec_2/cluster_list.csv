@@ -1,0 +1,326 @@
+"""UserId""","""ImageId Cluster""","""Description"""
+0,159;75;128;20;38;56;103;93;90;58;10;18;130;,on the water
+0,152;148;89;47;26;17;82;74;48;1;119;166;44;155;120;139;83;16;7;113;45;94;96;107;73;57;,animals or insects
+0,30;8;143;169;109;167;80;178;66;63;105;111;21;65;9;,architecture
+0,84;165;79;46;49;86;135;85;69;34;134;146;88;174;163;71;62;162;106;137;0;55;12;52,faces
+1,103;129;158;173;13;147;,Boats_ ships
+1,1;45;107;82;96;136;119;7;48;152;139;81;94;44;68;,animals
+1,0;19;52;86;108;79;87;71;134;88;174;162;43;84;40;62;97;175;69;163;137;146;55;64;106;34;46;49;165,humans
+2,49;19;62;88;85;43;77;78;79;146;55;112;162;34;175;145;86;168;12;53;71;165;174;52;163;84;98;106;,all involve humans
+2,44;120;94;81;96;119;73;45;74;136;68;166;152;113;1;155;89;48;3;57;82;107;17;16;7;,involve the animal kingdom
+2,50;101;21;76;102;8;110;105;140;53;109;115;117;95;123;61;108;35;125;51;144,involve art or design
+3,116;107;112;88;0;85;87;149;60;176;,Non color images (B&W and sepia)
+3,70;92;126;44;159;130;128;93;99;150;10;149;41;11;,Landscapes
+3,1;45;107;119;96;81;136;44;48;34;155;7;139;82;152;94;120;68,Animals
+4,96;73;152;89;94;45;34;113;1;82;74;6;148;119;57;44;48;155;166;3;5;120;17;139;107;81;161;136;16;,The group contains animals
+4,130;10;20;41;102;149;70;99;75;28;24;90;122;150;126;173;159;93;92;11;18;154;38;,The pictures are outside of landscapes
+4,91;129;98;158;58;167;2;37;172;103;147;97;171;116,The group contains vehicles
+5,34;119;81;94;3;82;139;48;166;1;5;96;89;155;16;120;7;113;136;83;46;152;17;45;107;161;44;,Animals
+5,55;12;165;40;49;144;97;2;86;111;98;91;79;19;112;168;174;164;43;58;127;171;129;57;87;36;37;13;62;,This group has to have some kind of movement
+5,50;35;95;31;103;60;66;101;93;8;110;140;78;104;27;128;6;121;100;179;138;172;72;91;160;80;51;63;176;67;114;30;47;42;21;124;127;169;171;118;117;123;131;64;29;54;125;143;177,Needs to be a thing nothing alive in the picture
+6,10;149;102;83;44;125;41;112;93;38;133;57;130;103;128;90;122;107;151;79;173;18;147;129;75;158;97;56;159;20;144;,These pictures all have water in them.
+6,112;149;87;60;107;128;132;85;64;179;170;176;56;,I group theses pictures together because they are all black and white.
+6,38;161;61;119;34;44;83;48;113;57;148;120;73;1;133;94;16;107;5;81;7;45;152;166;46;74;136;3;89;139;155;96;17;82,I group these pictures together because they all contain animals.
+7,22;32;33;124;157;,These are objects that can be eaten.
+7,17;113;73;3;89;166;16;,They all have  birds in them
+7,126;24;15;161;25;4;74;23;132;153,They all have flowers in them.
+8,153;23;15;73;25;24;161;4;,All are flowers with different shape_ colors and sizes.
+8,167;105;30;111;178;8;80;109;66;,These are different type of architectures at various locations in the world.
+8,69;43;19;11;16;144;105;137;52;0;29;160;134;70;20;67;59;85;93;10;3;126;112;150;92;96;72;107;41;97;102;108;130;129;132;170;76;128;90;79;58;147;159;18;28;158;71;,All images has distinctive photography technique. There are various shades of nature_ society etc.
+8,119;57;139;82;5;44;7;94;155;45;136;152;81;83;48;1;34;120;,These are animals from land and water. They are either swimming are running. 
+8,113;89;166;3;17;91;127,All these can fly.
+9,149;36;10;130;156;,They all have snow
+9,139;3;119;152;45;107;48;17;73;16;,All of them feature animals.
+9,173;76;39;41;122;70;159;93;38;,All of these photos feature prominent cloud formations.
+9,159;18;10;173;128;103;93;129;133;130;158;144;102;44;14;56;20;,All feature bodies of water. 
+9,33;124;32;22;157,All of these are food items. 
+10,112;116;87;95;56;149;64;,Black and white pictures
+10,24;23;45;70;22;147;73;4;25;161;153;126;,Plants and flowers
+10,165;163;137;84;134;34;168;19;0;71;86;162;52;98;88;146;43;175;40;106;49;46;174;62,People
+11,82;3;113;5;148;166;94;47;44;81;68;96;16;83;45;6;34;57;136;119;74;17;161;107;152;7;61;155;1;48;139;,I grouped these together because they are of the animal kingdom.
+11,134;79;40;98;19;162;165;144;116;137;71;112;49;46;175;108;174;34;88;77;97;135;55;78;111;84;69;87;163;43;52;14;86;62;168;106;142;164;0;146;12;39;,I chose this category because all the pictures contain human forms.
+11,33;124;22;32;157,I chose this category because the pictures are of food.
+12,149;30;72;171;18;82;58;133;113;83;144;102;36;16;39;65;156;97;79;7;10;150;173;56;118;159;141;44;28;14;24;110;161;40;147;20;126;68;166;122;38;129;70;99;41;96;76;11;158;37;45;,outdoors/in nature
+12,54;32;21;100;137;108;31;27;72;35;60;151;115;42;50;59;179;61;49;118;95;134;78;131;64;77;125;145;66;51;146;53;117;104;142;160;,related to art and design/aesthetic and creativity
+12,79;137;174;71;52;69;175;165;55;98;112;87;84;78;85;134;0;49;19;167;77;163;40;43;168;86;145;146;162;46;116;106;88;62;34;111;164;135;142;12,contain people
+13,153;99;156;4;102;41;20;148;139;94;45;7;68;161;10;17;149;44;166;74;23;126;113;141;96;3;11;133;28;92;24;147;150;90;118;38;75;25;159;73;93;70;,All the images are of natural things
+13,84;88;168;108;71;162;62;85;77;134;164;19;0;49;79;137;165;69;52;175;163;34;174;86;146;46;,There are people in every image
+13,8;114;167;13;179;30;65;2;80;127;121;50;110;143;63;151;144;178;177;72;21;171;66;105;116;169,They are all images of something man made
+14,136;17;7;26;113;139;44;94;46;119;120;45;48;81;155;16;1;82;73;96;3;89;,I grouped these pictures together because they are all animals.
+14,129;44;79;18;58;90;97;133;75;159;128;83;38;130;122;41;144;10;20;147;158;5;103;93;173;56;57;,All of these pictures have bodies of water in them.
+14,37;98;36;129;127;91;58;2;97;172;164;103;171;158,All of these pictures are of methods of transportation/vehicles.
+15,87;95;112;107;128;132;154;64;88;116;56;149;60;170;63;0;,I grouped all of these pictures together since they are all black and white images.
+15,2;68;93;26;110;75;11;139;109;118;22;55;152;67;45;40;150;89;80;65;70;39;38;112;12;127;73;107;172;128;74;43;9;147;141;76;136;122;177;13;97;155;159;28;105;85;126;103;129;116;58;92;37;1;24;3;20;7;166;133;15;130;108;99;161;111;168;56;156;131;79;149;170;63;90;102;81;44;98;17;4;30;96;18;158;36;14;94;91;167;171;29;69;16;173;8;41;10;178;165;72;163;174;82;,I grouped these pictures together because the pictures are all outdoors.
+15,48;68;119;139;46;152;61;45;89;73;107;83;136;5;155;113;1;3;7;166;81;44;17;96;34;82;16,I grouped these pictures together because they all have animals in them.
+16,89;3;61;17;166;113;16;73;,I grouped these pictures together because they all have birds in them.
+16,41;150;122;93;38;11;102;30;39;,I grouped these pictures together because they all show the sky and clouds.
+16,85;107;60;176;112,I grouped these photos together because they are all black and white.
+17,50;59;,Circular lighting
+17,73;44;166;136;94;17;83;48;45;81;82;89;57;5;107;16;113;152;139;3;1;96;119;,Live animals in each picture
+17,22;26;132;25;23;4;,PlantsClose-ups
+17,55;168;164;40;174;69,PeopleMoving or in motion
+18,77;162;19;43;98;12;111;14;137;62;52;34;79;116;112;88;40;85;175;163;69;84;0;78;46;142;134;168;174;87;86;165;146;71;49;55;106;,Photos with actual human beings in them.
+18,16;3;17;166;113;73;89;,All the animals in this group are birds.
+18,35;115;7;53;61;95;108,They all contain some sort of art or drawing
+19,44;68;3;89;83;119;73;82;113;5;155;6;61;81;45;107;152;48;7;17;16;1;96;166;94;139;,All pictures contain an animal.
+19,62;163;88;43;134;19;64;165;79;77;87;40;78;0;69;144;106;108;86;95;49;84;146;174;145;98;162;12;142;164;71;175;34;137;52;32;39;46;140;55;,These all contain people.
+19,30;63;8;76;126;169;114;105;121;111;85;80;65;116;136;143;66;144;167;109;178;9;84;173;21;177;12;179,These all contain a building.
+20,103;99;96;41;122;70;128;28;156;90;11;44;45;166;73;1;81;39;130;159;7;150;24;4;161;22;68;26;93;38;139;75;17;56;149;107;89;15;25;155;47;102;94;3;83;18;10;57;92;5;,Open spacesPeaceful. Untouched. Natural.Nature
+20,51;42;53;117;101;69;9;123;29;35;115;50;104;32;142;108;67;21,ArtisticPoint of viewVibrant
+21,11;126;39;93;38;28;92;18;156;102;56;122;41;90;130;150;99;,Wide open landscape is the predominant feature of the photograph.
+21,152;83;16;17;155;45;5;81;139;3;89;7;136;113;166;73;119;1;48;94;82;,Animals are the primary subject of the photographs.
+21,110;59;151;160;51;50;115,All of the objects in the photo display a circular pattern.
+22,1;17;139;152;74;73;96;48;3;81;46;45;94;155;7;89;44;113;82;136;16;107;120;119;34;166;83;5;68;57;,I have grouped these pictures together because they all contain animals.
+22,25;74;126;153;73;24;4;161;23;15;132,I have grouped these pictures together because they all contain flowers.
+23,75;44;151;107;110;20;79;97;130;10;38;158;90;14;129;67;102;58;147;56;133;112;122;128;93;173;18;41;103;,All of these images include a body of water.
+23,44;45;107;136;81;38;139;119;155;48;82;96;46;94;152;34;68;133;120;1;7;,All of these pictures are of non-human mammals. 
+23,163;137;162;12;106;52;34;49;98,All of these images include people looking at the camera.
+24,4;25;24;15;47;153;161;23;132;73;126;74;,Flowers
+24,1;83;148;48;3;96;57;82;34;61;68;107;5;94;7;120;46;139;44;155;17;161;113;73;16;152;32;6;95;119;166;89;74;45;136;81;,Animals
+24,19;0;64;14;39;57;12;34;61;85;145;98;53;137;168;165;144;97;162;46;140;49;146;40;43;56;135;167;52;116;84;112;95;106;77;134;78;87;164;108;79;88;62;71;86;69;163;175;142;174;55;,People
+24,41;90;92;102;24;96;14;39;99;11;141;97;122;133;18;10;93;130;44;56;38;149;28;150;20;126;173;128;70;159;156;147,Landscapes/Nature
+25,119;155;16;46;61;81;94;113;152;139;161;73;68;,I grouped these pictures together because they all contain animals of some sort.
+25,57;83;130;173;103;93;75;90;18;44;133;,I grouped these pictures together because they all contain water.
+25,79;39;19;40;168;174;162;111;52;106;43;175,I grouped these together because each one contains more than one person.
+26,139;5;48;3;152;155;34;96;1;81;7;73;16;119;113;120;148;82;83;57;74;136;94;107;46;166;89;161;45;17;44;,I grouped these because they all had animals.
+26,116;107;56;60;170;85;87;112;176;154;88;63;149;,I grouped these because they were all black/white.
+26,99;149;126;68;147;28;70;39;24;44;150;,I grouped these because they all focused on the landscape/foliage.
+26,55;40;12;86;,I picked these because they were sports related.
+26,15;25;73;132;153;23;4;24;161;,I picked these because they were flower related.
+26,61;95;64;54;131,I picked these because they were all artistic/posters.
+27,132;23;24;25;153;161;73;22;4;,All of the pictures contain plants.
+27,48;82;45;139;81;94;1;96;89;44;113;83;26;152;7;120;34;3;119;17;155;73;136;16;107;,All the pictures contain animals.
+27,168;163;164;79;175;165;0;85;116;62;55;137;71;174;19;86;49;34;98;40;146;162;106;134;112;88;84;46;52;87;43;135;69,All the photos have human subjects.
+28,1;81;94;16;,I grouped these pictures together because to me they represent wilderness animals.  These are animals that one can typically find in the wild and forest areas not generally inhabited by humans.
+28,132;73;4;25;161;153;,This grouping to me represents the many variety of flowers that are grown in nature.  Each specimen is unique and beautiful on its own_ with varying colors and shape.  Together they represent the true essence of beauty in nature_ and the delicacy of plant life.
+28,48;34;119;136,This grouping is a collection of common household pets many of us have in our homes.  They are photo representations of why humans maintain pets in our homes for companionship and love.  These loyal animals captivate our hearts as we welcome them into our homes.
+29,168;134;164;98;84;86;112;0;163;34;146;142;162;79;165;55;71;137;62;40;43;175;106;52;49;174;,All are people from various parts of the world.
+29,92;122;4;70;102;23;126;159;93;20;76;15;147;156;99;56;24;10;25;153;18;75;161;28;73;150;38;39;,These are different shades of nature.
+29,88;77;140;,These are sculptures.
+29,136;152;48;1;82;7;44;81;155;120;96;94;139;45;,All are wild animals.
+29,166;16;89;17;3;127;113;2,All can fly.
+30,82;81;,Bears
+30,23;4;126;25;132;153;,Flowers
+30,130;156;28;,Mountains
+30,38;56;102;159;122;41;93;18,Ocean
+31,55;12;79;40;,Humans in dynamic motion
+31,31;54;95;64;115;61;,These are not photographs
+31,82;34;107;74;73;68;26;46;155;83;1;5;89;96;57;139;17;113;45;48;148;7;136;152;120;16;81;44;3;119;166;94;61,These all feature an animal
+32,82;166;17;1;61;74;5;57;34;161;73;44;83;7;46;3;26;89;113;16;96;148;45;48;107;155;139;68;120;94;81;119;152;136;,This picture has animals/birds/insects etc. in it
+32,150;10;58;20;65;18;76;149;128;93;156;24;99;103;56;130;75;151;105;118;41;141;92;38;39;129;8;147;109;11;14;90;122;30;159;102;140;133;173;126;167;9;28;178;97;44;158;110;,These are images of scenaries/lanscapes.
+32,164;58;127;13;116;103;37;91;129;36;147;172;173;98;171;97;2;158,These photographs contains vehicles/modes of conveyance.
+33,48;89;74;17;3;68;94;73;81;46;139;45;119;7;83;57;113;152;1;166;96;34;6;82;120;5;155;16;136;148;,I grouped all photos containing animals_ fish or insects together. 
+33,91;171;36;13;103;129;98;2;116;127;172;158;37;,I grouped together any photos containing vehicles: cars_ trucks_ tractors_ planes_ trains and boats. 
+33,30;80;66;65;8;151;67;21;110;109;144;143;76;12;105;111;173;169;63,In this group I placed any photos containing buildings or architectural details. 
+34,77;71;174;88;89;134;,The people or animal are all shown in profile looking to their right. 
+34,103;37;91;171;98;164;145;127;13;2;172;158;,All of the images contain a mode of transportation. Boat/car/helicopter/submarine/plane
+34,69;19;62;79;0;87;174;34;84;,I grouped these together because all of the people are clearly expressing an emotion. Happiness_ Joy_ Lust_ Love_ Grief_ Relief_ Boredom_ Contentment_ Dedication... Not subjective on my part_ they could make anyone feel any number of things. They just portray a feeling and that is why I grouped them together. 
+34,50;179;143;59;110;100;22;115;151;27;51;132;23;144;33;157;124,The images are all round/circular or arched in some way. 
+35,124;22;33;157;,Food
+35,46;40;162;168;134;106;98;175;34;165;88;163;43;71;84;135;87;86;19;137;97;85;164;52;12;79;142;174;49;144;146;0;62;,Person
+35,23;161;25;73;4;132;24;153,Florals
+36,38;10;159;147;15;126;149;70;39;122;128;75;133;28;41;150;20;125;18;138;102;118;93;90;130;156;99;,I grouped the above pictures under nature.
+36,6;44;94;139;46;152;45;82;81;7;120;119;136;48;155;1;96;,I grouped the above pictures as Animals
+36,86;52;40;168;165;71;146;174;34;106;49;137;163;134;19;62;85;162;79;84;69,I grouped the above pictures as Human's Emotions.
+37,130;93;129;126;102;11;133;156;41;149;158;38;10;90;99;92;70;159;122;150;,Photos or paintings of landscapes with little to no buildings or people.
+37,43;1;81;19;,Animals or people.Hugging or leaning on one another.
+37,34;119;174;49;137;162;136;163;52,People or animals.Looking at the camera that took the photo.
+38,3;89;113;73;16;166;17;,They are all birds
+38,102;56;58;156;30;11;130;133;70;147;158;149;20;122;150;28;99;126;93;18;90;10;41;92;173;75;76;38;159;,They are all landscapes or oceanscapes_ pictures of scenery
+38,139;34;82;44;107;48;136;155;45;96;152;7;81;1;94;119;120;68;,4 legged land dwelling animals
+38,26;22;23;15;47;153;25;132;24;4,Plants and flowers
+39,16;81;161;74;1;119;136;139;166;73;82;45;155;3;48;152;89;17;7;113;107;,All of the images contain non-human animals on land.
+39,173;58;14;57;144;93;99;133;10;56;41;122;129;159;147;79;130;83;18;158;112;128;75;97;,All these pictures have large water features. I didn't include pictures like the water droplets or the fish in the aquarium because they were not large water features. 
+39,40;14;55;79;12;168;174;46;111;69,These are picture so humans making large movements that involve most of their body. The picture might not capture all of the action but it can be inferred that large movements are involved (e.g. leading the horse).
+40,152;82;44;155;81;1;,All are land mammals.outdoors
+40,146;137;87;174;134;86;71;79;34;49;,All pictures contain women or girls.
+40,80;178;123;63;65;143;144;105;9;30;110;21;8;72,All pictures contain architectural features_ either interior or exterior.
+41,96;68;73;34;166;107;16;94;133;61;57;139;136;45;82;48;152;120;113;83;5;7;44;89;155;119;81;46;3;17;1;,These photos are grouped because they contain animals.
+41,24;174;2;171;116;106;73;63;40;68;26;96;141;177;27;127;9;111;34;93;112;136;85;139;57;102;134;172;15;76;11;39;70;166;147;107;16;161;178;133;12;94;74;71;163;118;25;152;159;82;14;108;114;110;156;66;103;158;45;56;91;18;149;168;44;126;7;167;97;105;13;165;22;38;23;129;113;83;58;164;128;29;36;30;151;90;21;89;155;154;55;173;28;109;80;41;67;43;135;65;150;99;20;79;81;69;46;62;3;92;170;17;4;10;52;98;130;72;75;122;1;8;37,These are all pictures that are taking outside and outdoors.
+42,2;89;17;16;74;113;73;3;161;127;,Things capable of flight
+42,129;103;13;158;58;97;,All types of vehicles that can float and move on water.
+42,130;156;102;92;93;70;28;18;126;41;90;38,Beautiful scenic photographs
+43,18;122;75;38;103;159;56;44;57;147;97;130;144;83;5;10;93;102;79;133;173;41;,There is water
+43,46;7;6;17;82;44;1;107;136;96;161;74;16;94;152;48;73;57;155;34;83;113;139;3;166;119;5;45;81;89;10;148;61;120;,animals
+43,116;122;75;76;70;38;171;46;7;72;68;18;55;6;30;1;43;107;28;110;150;12;136;96;41;161;156;36;103;82;127;17;159;118;44;56;74;147;16;20;57;14;94;73;40;9;178;69;91;168;152;24;26;67;99;11;126;79;29;133;111;106;37;149;140;155;15;170;141;39;177;65;151;13;58;97;173;135;166;2;3;113;139;130;102;144;90;172;98;164;80;83;10;158;109;167;105;63;93;89;45;148;92,taken outside
+44,86;137;19;79;108;71;146;162;52;174;34;49;69;85;175;87;134;39;,Each picture contains what appears to be at lest one female subject.
+44,123;8;80;177;167;30;109;143;105;111;116;85;106;178;21;63;76;,These are grouped together because there are buildings or structures in the picture.
+44,40;96,The subjects in the picture appear to be running
+45,63;8;178;80;21;66;167;,They are all buildings.
+45,170;15;179;112;176;132;116;128;87;85;60;56;,They are all monochromatic photos. 
+45,115;59;151;21,These are all surrealist works. 
+46,55;11;30;75;20;159;70;150;92;129;76;126;91;96;39;173;109;99;94;13;93;38;102;58;12;9;105;28;144;141;10;167;59;118;130;72;80;122;158;,I group these images together because...<br>- They all contain clouds<br>- They are all outside pictures 
+46,116;107;132;85;63;170;56;128;87;112;149;60;,I grouped these images together because...<br>-They are black and white<br>-They are photos<br>-They are not pictures or paintings<br>-
+46,5;107;57;56;44;83;87;112;79;97,I grouped these images together because...<br>-They all contain water<br>-They have water in the foreground or background<br>-There is an animal engaging (swimming_ drinking_ utilizing) the water feature
+47,163;49;106;69;78;46;97;53;162;137;52;55;164;88;111;43;86;175;0;62;144;135;84;71;34;134;174;79;39;87;145;12;168;146;40;98;85;,I grouped these because they all contain people or people parts.
+47,61;46;17;166;48;1;74;73;94;57;82;45;119;5;161;83;155;81;44;6;152;7;120;3;107;89;96;139;113;26;68;,I grouped these pictures because they all contain animals.
+47,176;154;170;116;112;56;132;85,These are black and white.
+48,25;70;161;147;22;152;156;126;24;102;150;23;122;28;128;159;90;4;132;99;153;118;75;39;92;47;11;,all nature pictures and very location specific..some focus on flowers
+48,148;107;46;82;119;94;5;57;1;16;61;34;7;68;136;113;45;120;96;6;3;155;166;139;81;48;89;83;74;,all of pics are of non-human (animals_ birds_ insects) lifeforms though in some pics humans are present along with animals
+48,86;98;43;19;168;79;40;12;111;84;162;174;49;,In all these pics_ there are people who are indulging in some activity.
+48,63;143;144;110;167;105;76;8;109;114;178;9;151;,all the pics are images of buildings and structures.
+48,35;42;145;77;64;131;61;108;95;31;53;140;,all the images in this group are works of art or photographs of artistic structures..all images have elements of art in them.
+48,91;98;158;171;127;103;13;116;164;129;58;2;97;,all pics in this group are of vehicles - road_ air and water vehicles
+48,87;86;19;108;71;52;34;79;40;175;134;162;146;137;174;49,all images in this group have females prominently in them.
+49,17;73;68;148;45;107;74;136;44;89;139;94;120;48;113;166;1;81;5;7;119;82;161;34;83;152;16;,I group these pictures together because contain living animals.
+49,23;118;38;24;92;4;25;22;141;15;18;126;11;153;10;75;93;147;99;102;122;90;56;70;132;26;149;28;150;159;20;158;173;156;41;,I group these together because they contain scenery of nature.
+49,98;79;175;43;87;108;88;62;165;145;134;40;162;85;49;163;84;0;19;34;146;69;55;46;164;53;39;86;174;52;71;137;78;142;168,I group these together because they contain people.
+50,0;174;146;43;116;97;49;62;168;55;86;135;46;163;12;87;39;164;98;53;106;145;52;69;88;79;71;162;165;19;34;134;137;,The concept of these photos is people.
+50,143;176;105;123;8;167;114;63;80;66;173;76;65;77;121;21,These pictures are about architecture.
+51,73;103;24;83;3;61;130;30;10;12;91;105;138;113;108;125;76;18;178;115;151;110;146;156;141;134;72;44;131;129;65;34;38;57;80;172;126;79;,All of these pictures are dominated by the color blue.
+51,127;73;3;91;2;,Objects in flight.
+51,152;155,Elephants.
+52,1;7;3;17;73;94;113;82;83;139;119;136;89;155;152;96;48;81;34;6;61;161;,I grouped these pictures together because they all contain animals.
+52,18;3;56;103;41;93;129;83;10;128;38;158;90;122;58;,I chose this group because all the photos are taken in an ocean environment.
+52,69;162;98;71;163;174;79;49,I chose this group because the people in the photos are smiling.
+53,77;49;134;39;79;144;135;69;164;116;84;145;175;87;146;62;162;98;106;137;12;43;88;46;64;85;53;163;40;71;112;97;108;168;174;19;86;0;34;55;52;142;,They all have people in them
+53,159;92;18;4;47;102;90;138;38;20;150;70;10;11;126;122;41;24;93;99;56;133;118;156;28;,It's all landscapes
+53,82;107;119;155;89;73;68;148;48;120;81;74;16;5;113;1;7;96;17;166;44;139;83;3;34;136;57;61;152;94,They all have animals in them
+54,75;130;150;147;156;159;70;41;90;38;102;99;,natural landscapes
+54,89;107;10;44;113;136;17;82;119;120;5;96;81;45;48;166;3;83;155;7;94;1;152;73;68;16;,animals
+54,32;51;129;69;92;22;104;106;161;125;30;71;137;145;25;24;4;59;158,bright colors
+55,30;45;76;129;22;10;132;37;167;96;116;13;11;173;126;24;93;28;41;128;130;110;118;133;75;147;90;103;113;156;102;80;122;144;158;139;16;40;39;166;15;20;65;73;112;12;107;149;109;150;44;92;141;97;68;159;38;14;56;70;58;55;18;72;,OUTDOOR SCENES
+55,169;143;104;87;176;78;123;120;117;60;100;142;157;119;,INDOOR SCENES
+55,3;83;161;57;74;5;113;152;16;166;155;89;44;17,NON FURRY CREATURES (NON HUMAN)
+56,58;38;159;18;99;158;92;76;129;147;11;141;122;20;126;150;156;70;90;97;130;41;128;93;44;173;14;133;56;149;28;75;,outdoor_ scenery
+56,119;82;46;45;166;34;152;107;7;6;74;94;44;89;68;96;16;61;48;1;5;155;139;113;17;136;81;83;,animals
+56,174;71;79;19;34;134;137;163;106;146;165;162;84;175;88;40;43;62;0;49;168;39;52;135;86;85;87,person or people
+57,163;85;116;34;39;134;106;137;168;19;52;71;86;165;162;88;84;57;97;62;146;43;0;12;79;174;98;49;164;46;175;78;,I grouped these together because they all contain people.
+57,90;149;172;58;70;109;44;110;116;163;3;17;45;80;159;85;173;2;161;55;75;39;134;93;96;102;69;111;66;8;177;133;156;14;40;106;158;36;103;139;141;91;155;107;126;30;38;22;168;18;73;20;65;82;28;112;97;171;150;1;56;37;129;10;113;151;81;94;166;114;24;13;118;128;68;43;152;99;136;46;178;89;122;41;167;92;130;12;79;147;,I grouped these together because they are all pictures of an outdoor location.I grouped these together because they are all photos.
+57,3;17;45;83;96;16;155;107;139;73;82;1;113;81;94;166;68;152;46;89;136;,I grouped these together because they all contain animals.I grouped these together because they are all outdoors.I grouped these together because they are all photos.
+57,3;17;74;2;16;91;73;127;113;166;89;,I grouped these together because they all fly.I group these together because they are all outdoors.
+57,172;116;2;158;36;91;103;127;97;171;37;147;98;167;164,I grouped these together because they are all vehicles/modes of transportation.I grouped these together because they are all taken outside.
+58,24;22;153;23;25;132;4;15;,Close up of plants
+58,162;71;137;134;106;79;0;49;34;69;98;168;40;86;52;165;164;84;146;175;163;174;39;62;85;19;12;,This group contains a picture of one or more person in them.
+58,83;94;45;44;74;82;89;81;1;155;107;148;16;152;113;166;3;139;73;17,These pictures contains animals in the natural environment.
+59,166;48;83;16;96;139;73;44;81;113;89;94;46;161;82;3;5;120;68;57;148;17;152;74;107;136;119;1;45;155;7;34;,All the images contain at least one non-human_ living animal or insect.
+59,130;10;92;24;25;4;93;102;26;90;122;15;28;41;70;,These picture do not contain an animal or human in them.These picture are all taken in nature.
+59,39;71;142;78;85;88;105;40;146;134;84;14;112;46;86;162;106;19;62;79;168;164;135;165;55;43;57;111;56;167;87;116,At least one person in each photo is not looking directly into the camera that is taking the photo of them.
+60,38;24;93;11;133;102;150;28;41;156;159;18;130;149;20;90;70;99;,Each picture had to have an almost 100% focus on the environment and what was going on with it. Weather the focus was water or the weather or even sunset but I didn't want anything else to take away focus from the environment. If there is another object in the picture it is blended in and not the focus of the picture. These are all pictures of the environment but in different ways. 
+60,7;48;1;139;155;89;113;73;81;96;83;94;166;82;152;136;161;17;107;74;45;3;5;120;119;16;,I wanted all of the pictures to be focused on a living breathing thing other than a human being.
+60,129;91;2;158;36;171;103;37;13;127;,Each photo had to have a form of transportation in it and that transportation had to be the sole focus of the photo
+60,86;46;79;174;14;168;69;62;164;165;40;84;85;135;116,People were the focus of these picsEach person/s that are the focus of the pictures seem to be unaware that a photo was taken of them and they aren't staged. I wanted it to be like the people are doing something and someone in the background took the picture. That is the characteristic I was looking for
+61,99;102;122;90;92;38;133;24;11;130;70;149;128;173;147;28;56;20;118;,a grouping of environmental pictures
+61,77;12;162;84;79;85;49;55;137;43;39;174;175;0;168;52;163;62;71;46;19;146;34;134,a grouping of people in various locations
+62,96;45;82;68;119;155;48;1;34;7;81;107;139;120;94;152;136;,All these have non-human mammals as subjects of the photo
+62,111;163;46;79;174;135;34;14;12;84;62;52;85;106;165;69;168;164;71;137;98;19;162;78;87;112;39;146;43;40;49;88;134;55;175;0;,All the photos have live humans as the subject
+62,58;10;90;20;129;97;159;130;67;79;14;147;93;173;144;75;125;38;128;107;122;18;158;133;112;57;103;154;76;83;69;102;56;44;87;5;,All of the pictures have water in them in some way.
+62,33;32;157;22;44;70;,All pictures contain food/things that can be eaten
+62,126;132;4;24;73;23;15;25;161;153,All pictures contain flowers
+63,172;37;171;58;103;97;98;36;158;2;13;129;91;167;,Vehicles (This includes original photos of all kinds of vehicles such as bicycles_ cars_ bikes_ buses_ trucks_ boats_ ships_ aeroplanes etc that are in focus)
+63,34;164;87;86;0;46;174;55;62;97;175;88;12;134;137;98;40;144;168;162;49;85;84;116;106;165;79;43;135;142;163;52;71;167;19;39;146;78;,People (Photos of real people in motion or posing to the photo)
+63,94;34;17;161;44;46;68;82;1;7;166;96;139;148;3;81;152;74;48;113;73;89;120;16;83;136;107;5;38;119;45;57;,Animals (This include all animals other than human beings such as insects_ birds_ fishes_ wild animals_ pets etc.)
+63,53;104;32;100;121;60;51;42;151;50;77;145;63;6;144;125;160;117;140;27;129;114;157;78;176,Handmade & Manmade Interesting Items
+64,33;117;157;,Items are food.Food.
+64,43;134;97;78;12;112;0;86;69;62;137;52;71;98;40;19;164;162;142;79;46;178;146;144;55;111;175;165;163;108;88;34;106;49;84;87;14;53;168;85;174;,All include humans_ or human body parts.People
+64,96;45;94;44;47;57;73;46;16;81;74;107;89;1;136;17;48;120;83;119;7;148;155;152;139;3;34;166;161;113;5;82;,Living creatures that are not human. Living creatures
+64,43;78;137;134;52;142;39;135;55;144;49;87,PeoplePosed in meaningful waysPosing
+65,120;16;1;83;44;136;45;119;94;48;152;107;7;82;155;81;34;,I grouped these pictures together because they all contain animals.
+65,16;113;17;3;73;89;,I grouped these pictures together because they are all birds_ and all fly.
+65,165;88;46;84;162;163;0;19;62;49;34;86;146;134;40;137;69;71;106;52;174;164;168;,I grouped these pictures together because they all show people in the images.
+65,102;93;41;38;118;90;75;92;,I grouped these pictures together because they included natural lighting_ illumination_ and sunsets.
+65,25;4;23;153;161;22;132,I grouped these pictures together because they all include brightly colored flowers and blossoms. 
+66,90;29;20;70;99;126;130;102;93;128;30;118;156;38;28;18;75;10;173;,I grouped these together because they all represent striking scenery. 
+66,0;62;71;79;19;46;88;146;34;40;134;86;174;162;163;69;165,People - I chose to group these because people are the focal point of the pictures. 
+67,52;79;86;49;88;146;106;19;163;71;46;174;168;165;62;162;137;0;40;43;164;134;12;34;84;,people are in these photos regardless of what activity they may or may not be doing
+67,6;120;139;61;166;155;119;57;152;107;81;5;83;44;94;96;3;136;48;148;89;82;45;16;113;1;17;7;73;74;,they all contain pictures of animals whether real photos or depictions_ and including all forms of animal kingdom from fish to birds to insects
+67,63;116;60;176;107;170;85;56;149;87;128;112;64;154;54,these are all black and white or sepia toned_ but lack full color
+68,41;159;20;90;38;56;10;75;58;18;122;102;133;130;,They all have some type of body of water.
+68,79;98;34;85;52;40;0;168;108;12;146;86;97;174;165;163;19;39;88;62;84;49;162;43;71;106;46;175;137;135;164;134;,They all have people in the picture.
+68,172;98;37;171,They all have a car in the photo.
+69,81;3;155;57;34;166;1;5;73;82;161;119;17;7;44;152;139;74;48;113;89;,Animals
+69,125;173;67;57;39;96;149;18;25;93;56;28;90;58;147;70;68;156;126;161;92;102;75;122;15;150;23;99;24;44;14;132;74;153;130;41;10;97;38;141;159;22;47;,Predominately natural scenes
+69,42;78;173;121;175;106;39;13;118;65;167;114;43;110;21;108;8;12;177;178;37;33;87;128;50;58;135;144;105;147;164;101;68;142;117;131;160;76;179;126;103;46;116;85;115;20;98;49;140;151;109;51;165;143;72;171;176;80;127;2;6;100;172;69;77;111;52;66;129;59;63;60;123;36;9;84;55;158;141;91;35;30;113,contains man made object
+70,25;23;4;132;,FlowersCloseup
+70,45;81;94;139;82;107;,wild animalsnatural environment
+70,176;87;112;107;116;132;56;,Black and white
+70,12;79;112;55;69;40;174;98,Human BeingsAll action shots_ people in motion_ no portraits
+71,26;15;56;156;126;39;41;99;70;92;10;130;133;122;93;159;102;18;11;24;150;38;28;,Nature_ landscapenatural settings
+71,134;135;,Reflection_ these women feel like they are deep in thought
+71,53;106;69;97;52;71;,Culture_ diversity
+71,40;55;12;79,These people are moving_ using their bodies_ joyful
+72,131;54;49;64;172;160;146;31;,They all contain some type of text or font.
+72,89;166;113;17;3;73;16;74;,All of these pictures contain a creature that can fly.
+72,70;149;99;159;126;150;133;156,All of these pictures are of a landscape or terrain.
+73,48;34;45;155;83;61;166;139;7;81;89;113;120;96;73;161;107;82;136;44;17;94;5;119;16;3;152;1;,I group these images together because they all contain animals.
+73,98;19;116;88;106;40;69;0;140;62;84;52;79;137;164;49;165;174;162;135;175;146;43;78;71;86;134;55;85;46;163;87;12;112;14;97;168;,I grouped these together because they contain people.
+73,57;70;30;158;129;56;102;76;36;39;41;68;4;10;90;99;25;92;150;122;105;18;133;126;128;130;149;141;44;159;20;147;75;11;24;28;93;38,I grouped these images because they  are outdoor nature photos.
+74,4;74;15;99;57;10;5;48;7;24;20;92;126;118;136;83;45;41;166;119;150;75;130;81;1;38;102;18;138;128;156;3;89;68;17;93;70;113;82;94;149;56;44;25;16;159;148;47;26;153;161;96;73;122;90;67;152;28;120;155;23;141;,Nature
+74,52;79;86;55;175;174;85;163;88;95;168;46;84;43;134;19;0;40;164;62;135;112;34;53;108;145;98;137;165;49;146;71;87;12;39;162;106;69;,People
+74,123;30;109;178;29;8;144;65;179;80;76;72;110;111;9;151;143;67;173;21;177;66;105;169,Buildings
+75,93;75;41;90;102;92;,I grouped these together because they are all pictures of the sun setting.
+75,3;113;166;73;89;17,I grouped these pictures together because they are pictures of birds.
+76,38;83;57;56;138;67;128;20;158;130;90;159;44;58;103;147;107;10;112;14;,water or ocean in image
+76,124;32;157;33;22;,Food
+76,34;96;48;119;46;120;5,Domestic animals
+77,17;166;73;89;139;45;3;113;,I group these pictures together because they all contain birds.
+77,4;59;69;104;51;120;24;73;,I group these pictures together because they all contain the color purple.
+77,132;4;161;23;147;126;153;24;74;73;15;25,I group these pictures together because they all contain flowers
+78,47;20;99;92;24;153;28;141;15;122;132;11;90;150;147;126;75;25;158;4;125;156;10;130;22;118;102;67;133;41;128;173;129;18;103;138;159;70;59;149;93;154;58;140;23;,they are all pictures of nature
+78,139;17;86;57;19;44;146;73;113;49;46;155;62;26;120;148;79;68;55;98;69;95;144;14;87;174;165;40;83;97;161;111;5;56;61;39;164;3;152;78;116;134;43;53;142;163;88;137;107;16;96;52;84;0;85;81;178;38;82;168;89;135;119;48;105;1;106;7;45;34;112;145;71;175;136;12;74;166;94;162,all pics had a living creature - human_ animal_ fish_ bird
+79,57;73;166;89;38;3;1;83;94;81;7;48;34;113;136;119;120;139;,Animals
+79,67;90;147;10;102;38;57;18;83;75;14;158;129;130;97;44;122;93;159;103;41;173;133;,water
+79,19;98;174;49;79;46;116;86;164;52;0;106;62;40;162;34;134;84;137;165;175;168;135;78;87;43;71;69;163;146;88,People
+80,16;74;120;89;46;68;148;113;7;45;44;94;1;83;166;5;82;17;107;73;96;139;48;3;152;155;136;119;81;34;161;,I grouped these pictures together because they are all animals that are real and living.
+80,102;74;90;150;58;9;2;92;116;126;132;0;146;82;17;115;4;107;30;139;78;71;137;26;25;47;152;3;81;161;,I grouped these photos together because they are imaged that are watermarked.
+80,129;13;58;158;97;144;103;128;,I group these images together because they all contain water based transportation (boats_ ships_ canoes).
+80,22;157;33;124;32,I grouped these pictures together because they are all related to food.
+81,4;153;24;25;161;15;132;23;,these are flower pictures
+81,1;107;152;44;139;94;155;96;45;81;82;7;,These all are mammals. These animals are living in their natural environment.
+81,3;89;113;17;16;73;166,These are birds pictures
+82,52;86;71;162;79;137;174;106;146;165;40;98;163;88;134;84;,People
+82,25;153;147;23;24;22;161;,Flower
+82,127;30;91;38;159;118;130;102;158;150;18;76;134,Sky
+83,40;88;55;0;163;84;134;52;79;165;34;174;71;86;43;12;62;162;69;78;46;49;116;142;106;175;111;39;137;135;19;146;168;98;164;,All of these pictures have the image of a real person.
+83,11;44;24;65;96;122;156;159;136;55;10;30;97;163;133;13;147;38;70;29;110;58;173;79;41;99;126;118;102;91;109;28;3;178;116;167;46;59;45;56;12;150;128;14;92;7;171;2;105;39;152;72;169;20;151;130;93;80;76;141;36;9;94;129;158;90;144;127;,These images all have a shot of the sky/horizon in them
+83,172;65;37;13;173;58;91;178;116;2;171;98;164;144;127;129,These images all contain a self-propelling vehicle (boat_ car_ plane etc.)
+84,130;144;75;41;128;129;171;10;90;102;173;56;58;112;133;147;93;18;97;38;14;57;20;79;44;103;159;83;110;67;122;158;,they are all related to water
+84,80;21;178;72;173;30;85;109;63;9;164;8;105;66;167;143;12;76;65;110;177;114;,they all contain some type of building
+84,165;87;48;178;55;43;74;86;56;168;78;46;144;175;146;163;85;111;1;73;107;7;112;142;53;45;40;161;164;145;162;116;81;98;106;139;16;113;96;148;97;166;89;167;12;39;69;57;79;14;174;44;137;119;94;34;62;152;71;3;0;5;68;134;84;83;136;155;49;17;82;88;19;52;120,They all contain living creatures.
+85,35;32;106;51;165;69;158;161;70;24;59;104;22;86;57;,Group shares  bright colors that stand out.
+85,6;3;32;48;1;34;94;17;89;83;38;136;152;120;119;7;81;166;96;155;139;61;82;107;16;57;,Group consist of creatures<br>
+85,3;52;156;76;1;149;29;37;165;173;176;12;130;171;10;103;68;58;69;44;144;85;114;150;84;43;94;108;18;17;67;179;128;170;109;151;39;74;56;23;83;97;89;116;138;66;93;133;38;14;158;136;122;152;15;112;164;30;111;73;168;178;96;135;129;161;143;59;166;75;92;70;167;8;141;63;159;62;7;163;102;24;81;110;20;25;9;46;41;72;99;26;80;139;4;65;90;155;105;2;127;107;113;55;134;177;174;82;79;172;126;45;40;36;16;28;91;22;57;13,Pictures are outdoors
+86,34;71;165;88;175;49;84;12;19;87;43;39;168;55;174;163;135;86;85;52;69;137;162;0;146;62;134;40;46;116;164;106;,They all have people in the photos
+86,144;169;105;63;9;177;76;80;123;12;67;30;143;8;151;114;167;178;109;66;,The images are all of buildings
+86,56;63;170;64;87;112;85;132;107;60;116;,All the images are in black and white.
+86,74;126;165;25;70;109;161;106;,Yellow is the main color in these images
+86,100;165;27,All images have cameras in them.
+87,1;5;94;119;16;7;166;152;3;48;45;83;57;46;155;96;82;120;113;107;44;73;89;139;161;74;136;81;34;17;,All of these pictures contain animals.
+87,11;90;150;76;126;9;70;30;92;93;58;128;38;13;122;72;39;56;55;158;96;20;130;99;105;167;80;75;102;159;28;173;129;41;,I put these pictures together because they all have interesting clouds as part of the scene.
+87,37;164;13;91;36;144;55;167;116;103;177;127;172;98;171;97;129;147;2,All of these pictures contain some kind of vehicle that you can ride on or inside.
+88,68;107;82;119;1;81;48;139;113;3;83;17;89;16;44;96;166;94;155;73;136;152;,I grouped these pictures together because they contain animals on their own with no humans in the photos.
+88,53;69;146;145;88;49;,I grouped these pictures together because people are using themselves or their bodies as subjects or mediums for artistic expression.
+88,21;8;66;101;169;167,I chose this grouping because they are all architectural structures with patterns. 
+89,92;128;132;11;28;149;26;150;102;130;4;38;99;90;41;18;153;23;156;93;20;25;138;141;75;118;133;122;170;22;125;70;159;10;47;24;15;,I choose these because they are nature pictures.
+89,155;6;136;152;1;96;46;107;17;3;73;83;166;34;44;82;161;45;148;139;89;7;5;74;120;61;68;48;16;81;113;119;94;57;,I choose they because they are of animal or insect life.
+89,12;19;106;77;53;62;43;46;14;85;87;116;135;137;86;39;0;84;142;55;108;69;174;162;98;164;112;168;49;71;163;52;88;175;146;145;131;40;111;165;79;95;78;57;134,I choose these because they are of people.
+90,17;1;61;32;3;83;107;113;5;73;94;6;119;152;16;166;139;48;81;148;89;82;34;7;96;,All of them have animals in them. 
+90,0;43;108;98;86;52;49;174;146;19;62;162;134;95;55;71;137;39;163;79;168;88;164;12;34;175;40;84;165;,They all have people in them. 
+90,17;67;155;43;26;138;143;116;158;18;41;15;109;69;57;72;147;76;128;103;105;38;52;170;73;108;98;97;70;113;45;111;56;3;59;150;110;83;122;107;65;112;11;22;141;75;90;159;173;133;46;66;23;118;2;94;77;102;177;80;121;24;28;9;8;169;126;63;156;161;4;106;13;132;36;19;144;58;62;30;55;154;10;16;99;166;152;93;20;149;168;12;37;104;164;140;39;29;91;135;139;163;79;151;81;114;92;179;89;172;7;85;96;165;25;167;74;176;178;82;171;130;40;14;127;129;68;44,They were all taken outside
+91,34;44;7;45;113;136;139;96;17;161;68;6;107;119;152;94;83;148;89;38;166;61;1;5;155;74;120;3;16;48;57;73;82;46;81;,I group these pictures together because they all contain animals
+91,108;140;1;175;97;64;135;87;78;69;71;86;137;85;146;134;162;40;174;43;49;19;52;79;,I group these pictures together because they have females in them.
+91,0;149;85;60;87;132;54;143;107;176;63;112;64;95;116,I group these pictures together because they are black-and-white.
+92,39;49;106;98;85;134;62;165;84;108;64;46;86;77;142;97;112;135;69;12;78;140;88;111;131;40;56;174;57;79;163;146;162;116;34;53;175;43;55;105;87;168;164;178;137;0;52;14;167;71;19;145;144;,humans_ including parts of humans
+92,61;107;48;152;46;96;82;113;17;148;81;119;7;68;89;155;73;57;1;136;5;6;133;34;45;120;83;44;74;16;32;35;139;166;94;161;,Animals_ including birds_ fish_ insects
+92,85;153;25;73;126;24;42;4;132;23;15;74;161,Flowers
+93,136;94;45;73;7;96;155;83;1;139;89;17;44;6;3;166;113;74;81;119;82;5;48;34;46;16;,these all contain at least one non-human animal
+93,67;179;137;114;66;111;143;21;80;72;8;131;117;142;51;169;,a similar visual element is repeated several times
+93,151;52;144;143;63;59,portals
+94,82;10;16;46;45;61;3;6;152;148;74;120;32;17;34;5;113;68;107;73;136;89;166;57;155;119;139;48;83;1;7;96;94;81;44;,The pictures all contain images or representations of animals
+94,134;46;39;98;69;40;12;111;52;19;174;86;84;146;34;165;78;49;88;71;163;137;175;87;0;55;14;62;79;43;162;168;106;,The pictures all contain people.
+94,103;10;134;3;130;38;151;73;108;125;110;57;83;18;,I group these pictures together because they are predominantly blue in colour/mood.
+94,23;25;24;4;74;22;47;42;153;15;132;161,I group these together because they are all images of flowers/plants.I group these together because they are all close up images.
+95,153;25;4;73;24;161;132;23;,Flowers are very beautiful
+95,166;73;17;89;3;113;,Birds are beautiful
+95,127;37;110;144;13;147;58;103;158;129;98;172;2;91,vehicles are cute
+96,168;79;163;43;49;175;86;40;165;88;77;46;62;95;34;0;146;52;162;71;174;,they all contain humans containing human expressionthe pictures are using a focus technique on a human expression
+96,124;33;157,they contain food that appeals to the sensesfocus technique used on food highlighting the colors
+97,107;87;116;136;154;63;85;176;,black and white
+97,29;122;15;173;68;24;70;102;92;159;,landscape
+97,40;86,sports
+98,3;94;45;48;96;119;166;82;120;113;155;44;136;1;7;34;139;152;61;89;81;16;83;,I grouped all of these together because they each contain animals in them.
+98,49;137;174;134;162;71;175;146;86;87;69;43;108;79;34;19;52;135;,I grouped these pictures together because they all contain females.
+98,3;55;172;97;30;103;170;94;45;118;156;24;98;39;46;72;41;58;29;40;166;99;36;37;20;178;65;127;96;85;2;129;17;163;8;91;43;147;149;116;28;122;79;150;168;113;75;109;70;110;164;128;10;68;44;11;56;130;112;18;177;173;136;159;26;15;12;141;167;13;139;73;80;171;90;152;102;76;92;107;158;151;89;93;133;16;126;38;105;81;14,I grouped all of these together because they are all outdoors.
+99,5;44;94;155;7;152;82;113;89;139;166;48;83;119;73;68;16;45;1;3;17;112;120;,I group these pictures together because they all contain animals & birds
+99,56;143;128;154;155;132;112;60;85;149;176;63;170;,they are black-and-white.
+99,0;88;108;95;93;61,they are paintings not photos.
